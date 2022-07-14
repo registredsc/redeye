@@ -23,6 +23,10 @@ npm i for install the node module
 go to botconfig and edit config.json 
 
 
+#My Discord
+
+𝕯.Registre#0001
+
 
 
 
