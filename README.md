@@ -1,4 +1,4 @@
-# redeye
+# RedEye
 
 
 (c) 2022 Registre . All rights reserved.
@@ -13,7 +13,7 @@ THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 
 
 
-INSTALL 
+# INSTALL 
 
 
 
