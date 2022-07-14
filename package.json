@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "quick.db": "^7.1.3"
+  }
+}
